@@ -1,6 +1,6 @@
 #!/usr/local/bin/python3.2.1
 
-# Course Project -- Ajit Puthenputhussery
+# Feature Selection Project -- Ajit Puthenputhussery
 # Input -->  main_project.py traindata trainlabels testdata
 
 
